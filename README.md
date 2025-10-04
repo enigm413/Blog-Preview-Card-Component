@@ -13,6 +13,8 @@ The component displays a white card with rounded corners containing:
 - Descriptive text
 - Author profile section with avatar and name
 
+![Demo Image of Blog Preview Card Component](./Images/screenshot.png)
+
 ## Features
 
 - 🎨 Clean and modern UI with bold shadow effect
@@ -50,7 +52,7 @@ project-root/
 
 ## Usage
 
-Click the [Demo App Link]()
+Click the [Demo App Link](https://simple-static-blog-preview-card-component.vercel.app/)
 
 ## Design Specifications
 
